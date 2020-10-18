@@ -2,11 +2,11 @@
 
 # Created by Marcus A. Mosley
 # Created on October 2020
-# This program states all valid RGD values
+# This program states all valid RGB values
 
 
 def main():
-    # This function states all valid RGD values
+    # This function states all valid RGB values
 
     # Input
     counter_1 = 0
